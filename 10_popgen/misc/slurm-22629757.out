@@ -1,0 +1,91 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) xalt/1.1.2
+This software stack is maintained by the Purdue Bioinformatics Core. Please
+direct inquiries regarding Bioinformatics software to bioinformatics@purdue.edu 
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_OgorEven_v1.0/09_filterVCFs/04_gntypMissing/GL_PinkSalmon_even_GATKfilter.GATKrem.snps.biallelic.indv80.gntyp80.vcf
+	--keep /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_OgorEven_v1.0/09_filterVCFs/04_gntypMissing/invariant_filter/filtered_STLOsamples.txt
+	--recode-INFO-all
+	--maf 0.0333
+	--out /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_OgorEven_v1.0/09_filterVCFs/04_gntypMissing/invariant_filter/STLO_noMAF.filt
+	--recode
+
+Keeping individuals in 'keep' list
+After filtering, kept 30 out of 132 Individuals
+Outputting VCF file...
+After filtering, kept 5080474 out of a possible 16725129 Sites
+Run Time = 1189.00 seconds
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_OgorEven_v1.0/09_filterVCFs/04_gntypMissing/GL_PinkSalmon_even_GATKfilter.GATKrem.snps.biallelic.indv80.gntyp80.vcf
+	--keep /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_OgorEven_v1.0/09_filterVCFs/04_gntypMissing/invariant_filter/filtered_STLO3samples.txt
+	--recode-INFO-all
+	--maf 0.0333
+	--out /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_OgorEven_v1.0/09_filterVCFs/04_gntypMissing/invariant_filter/STLO3_noMAF.filt
+	--recode
+
+Keeping individuals in 'keep' list
+After filtering, kept 15 out of 132 Individuals
+Outputting VCF file...
+After filtering, kept 5362161 out of a possible 16725129 Sites
+Run Time = 1005.00 seconds
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_OgorEven_v1.0/09_filterVCFs/04_gntypMissing/GL_PinkSalmon_even_GATKfilter.GATKrem.snps.biallelic.indv80.gntyp80.vcf
+	--keep /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_OgorEven_v1.0/09_filterVCFs/04_gntypMissing/invariant_filter/filtered_STLEsamples.txt
+	--recode-INFO-all
+	--maf 0.0333
+	--out /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_OgorEven_v1.0/09_filterVCFs/04_gntypMissing/invariant_filter/STLE_noMAF.filt
+	--recode
+
+Keeping individuals in 'keep' list
+After filtering, kept 29 out of 132 Individuals
+Outputting VCF file...
+After filtering, kept 4996010 out of a possible 16725129 Sites
+Run Time = 1178.00 seconds
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_OgorEven_v1.0/09_filterVCFs/04_gntypMissing/GL_PinkSalmon_even_GATKfilter.GATKrem.snps.biallelic.indv80.gntyp80.vcf
+	--keep /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_OgorEven_v1.0/09_filterVCFs/04_gntypMissing/invariant_filter/filtered_LAOsamples.txt
+	--recode-INFO-all
+	--maf 0.0333
+	--out /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_OgorEven_v1.0/09_filterVCFs/04_gntypMissing/invariant_filter/LAO_noMAF.filt
+	--recode
+
+Keeping individuals in 'keep' list
+After filtering, kept 29 out of 132 Individuals
+Outputting VCF file...
+After filtering, kept 7337647 out of a possible 16725129 Sites
+Run Time = 1474.00 seconds
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_OgorEven_v1.0/09_filterVCFs/04_gntypMissing/GL_PinkSalmon_even_GATKfilter.GATKrem.snps.biallelic.indv80.gntyp80.vcf
+	--keep /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_OgorEven_v1.0/09_filterVCFs/04_gntypMissing/invariant_filter/filtered_LAEsamples.txt
+	--recode-INFO-all
+	--maf 0.0333
+	--out /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_OgorEven_v1.0/09_filterVCFs/04_gntypMissing/invariant_filter/LAE_noMAF.filt
+	--recode
+
+Keeping individuals in 'keep' list
+After filtering, kept 29 out of 132 Individuals
+Outputting VCF file...
+After filtering, kept 7167282 out of a possible 16725129 Sites
+Run Time = 1443.00 seconds
