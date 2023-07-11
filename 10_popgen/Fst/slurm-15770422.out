@@ -1,0 +1,135 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) xalt/1.1.2
+This software stack is maintained by the Purdue Bioinformatics Core. Please
+direct inquiries regarding Bioinformatics software to bioinformatics@purdue.edu 
+/var/spool/slurm/job15770422/slurm_script: line 15: ../MAF_byPop: Is a directory
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf GL_PinkSalmon_hardfiltered_snps.filt.biallelic.indiv80.MMCN.MAF5.vcf
+	--keep ../MAF_byPop/filtered_STLOsamples.txt
+	--out STLO_hardfiltered_snps.filt.biallelic.indiv80.MMCN.MAF5.renamed.TajimaD10KB
+	--TajimaD 10000
+
+Keeping individuals in 'keep' list
+After filtering, kept 30 out of 133 Individuals
+Outputting Tajima's D Statistic...
+	TajimaD: Only using fully diploid sites.
+After filtering, kept 5331817 out of a possible 5331817 Sites
+Run Time = 149.00 seconds
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf GL_PinkSalmon_hardfiltered_snps.filt.biallelic.indiv80.MMCN.MAF5.vcf
+	--keep ../MAF_byPop/filtered_STLO3samples.txt
+	--out STLO3_hardfiltered_snps.filt.biallelic.indiv80.MMCN.MAF5.renamed.TajimaD10KB
+	--TajimaD 10000
+
+Keeping individuals in 'keep' list
+After filtering, kept 15 out of 133 Individuals
+Outputting Tajima's D Statistic...
+	TajimaD: Only using fully diploid sites.
+After filtering, kept 5331817 out of a possible 5331817 Sites
+Run Time = 148.00 seconds
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf GL_PinkSalmon_hardfiltered_snps.filt.biallelic.indiv80.MMCN.MAF5.vcf
+	--keep ../MAF_byPop/filtered_STLEsamples.txt
+	--out STLE_hardfiltered_snps.filt.biallelic.indiv80.MMCN.MAF5.renamed.TajimaD10KB
+	--TajimaD 10000
+
+Keeping individuals in 'keep' list
+After filtering, kept 29 out of 133 Individuals
+Outputting Tajima's D Statistic...
+	TajimaD: Only using fully diploid sites.
+After filtering, kept 5331817 out of a possible 5331817 Sites
+Run Time = 144.00 seconds
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf GL_PinkSalmon_hardfiltered_snps.filt.biallelic.indiv80.MMCN.MAF5.vcf
+	--keep ../MAF_byPop/filtered_LAOsamples.txt
+	--out LAO_hardfiltered_snps.filt.biallelic.indiv80.MMCN.MAF5.renamed.TajimaD10KB
+	--TajimaD 10000
+
+Keeping individuals in 'keep' list
+After filtering, kept 29 out of 133 Individuals
+Outputting Tajima's D Statistic...
+	TajimaD: Only using fully diploid sites.
+After filtering, kept 5331817 out of a possible 5331817 Sites
+Run Time = 148.00 seconds
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf GL_PinkSalmon_hardfiltered_snps.filt.biallelic.indiv80.MMCN.MAF5.vcf
+	--keep ../MAF_byPop/filtered_STLOsamples.txt
+	--out STLO_hardfiltered_snps.filt.biallelic.indiv80.MMCN.MAF5.renamed.TajimaD10KB
+	--TajimaD 100000
+
+Keeping individuals in 'keep' list
+After filtering, kept 30 out of 133 Individuals
+Outputting Tajima's D Statistic...
+	TajimaD: Only using fully diploid sites.
+After filtering, kept 5331817 out of a possible 5331817 Sites
+Run Time = 147.00 seconds
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf GL_PinkSalmon_hardfiltered_snps.filt.biallelic.indiv80.MMCN.MAF5.vcf
+	--keep ../MAF_byPop/filtered_STLO3samples.txt
+	--out STLO3_hardfiltered_snps.filt.biallelic.indiv80.MMCN.MAF5.renamed.TajimaD10KB
+	--TajimaD 100000
+
+Keeping individuals in 'keep' list
+After filtering, kept 15 out of 133 Individuals
+Outputting Tajima's D Statistic...
+	TajimaD: Only using fully diploid sites.
+After filtering, kept 5331817 out of a possible 5331817 Sites
+Run Time = 148.00 seconds
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf GL_PinkSalmon_hardfiltered_snps.filt.biallelic.indiv80.MMCN.MAF5.vcf
+	--keep ../MAF_byPop/filtered_STLEsamples.txt
+	--out STLE_hardfiltered_snps.filt.biallelic.indiv80.MMCN.MAF5.renamed.TajimaD10KB
+	--TajimaD 100000
+
+Keeping individuals in 'keep' list
+After filtering, kept 29 out of 133 Individuals
+Outputting Tajima's D Statistic...
+	TajimaD: Only using fully diploid sites.
+After filtering, kept 5331817 out of a possible 5331817 Sites
+Run Time = 147.00 seconds
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf GL_PinkSalmon_hardfiltered_snps.filt.biallelic.indiv80.MMCN.MAF5.vcf
+	--keep ../MAF_byPop/filtered_LAOsamples.txt
+	--out LAO_hardfiltered_snps.filt.biallelic.indiv80.MMCN.MAF5.renamed.TajimaD10KB
+	--TajimaD 100000
+
+Keeping individuals in 'keep' list
+After filtering, kept 29 out of 133 Individuals
+Outputting Tajima's D Statistic...
+	TajimaD: Only using fully diploid sites.
+After filtering, kept 5331817 out of a possible 5331817 Sites
+Run Time = 146.00 seconds
