@@ -1,0 +1,6 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) xalt/1.1.2
+User guides for each biocontainer module can be found in
+https://biocontainer-doc.readthedocs.io/en/latest/ 
