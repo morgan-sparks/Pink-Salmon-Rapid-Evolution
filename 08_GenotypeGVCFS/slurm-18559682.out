@@ -1,0 +1,326 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) xalt/1.1.2
+Using GATK jar /home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jarUsing GATK jar /home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar
+Running:
+
+Running:
+    java -Dsamjdk.use_async_io_read_samtools=false -Dsamjdk.use_async_io_write_samtools=true -Dsamjdk.use_async_io_write_tribble=false -Dsamjdk.compression_level=2 -Xmx10g -Xms10g -jar /home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar GenotypeGVCFs -R /scratch/bell/sparks35/GL_Pink_Salmon/data/assemblies/Ogor_1.0/GCA_017355495.1_Ogor_1.0_genomic.fna -V gendb:///scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_Ogor1.0/07_genomicsDB/all_samps/CM029847.1_genomicsDatabase -L CM029847.1 -O /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_Ogor1.0/08_genotypeGVCFs/run2/CM029847.1.vcf.gz
+    java -Dsamjdk.use_async_io_read_samtools=false -Dsamjdk.use_async_io_write_samtools=true -Dsamjdk.use_async_io_write_tribble=false -Dsamjdk.compression_level=2 -Xmx10g -Xms10g -jar /home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar GenotypeGVCFs -R /scratch/bell/sparks35/GL_Pink_Salmon/data/assemblies/Ogor_1.0/GCA_017355495.1_Ogor_1.0_genomic.fna -V gendb:///scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_Ogor1.0/07_genomicsDB/all_samps/CM029851.1_genomicsDatabase -L CM029851.1 -O /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_Ogor1.0/08_genotypeGVCFs/run2/CM029851.1.vcf.gz
+Using GATK jar /home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jarUsing GATK jar /home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar
+Running:
+
+Running:
+    java -Dsamjdk.use_async_io_read_samtools=false -Dsamjdk.use_async_io_write_samtools=true -Dsamjdk.use_async_io_write_tribble=false -Dsamjdk.compression_level=2 -Xmx10g -Xms10g -jar /home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar GenotypeGVCFs -R /scratch/bell/sparks35/GL_Pink_Salmon/data/assemblies/Ogor_1.0/GCA_017355495.1_Ogor_1.0_genomic.fna -V gendb:///scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_Ogor1.0/07_genomicsDB/all_samps/CM029848.1_genomicsDatabase -L CM029848.1 -O /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_Ogor1.0/08_genotypeGVCFs/run2/CM029848.1.vcf.gz
+    java -Dsamjdk.use_async_io_read_samtools=false -Dsamjdk.use_async_io_write_samtools=true -Dsamjdk.use_async_io_write_tribble=false -Dsamjdk.compression_level=2 -Xmx10g -Xms10g -jar /home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar GenotypeGVCFs -R /scratch/bell/sparks35/GL_Pink_Salmon/data/assemblies/Ogor_1.0/GCA_017355495.1_Ogor_1.0_genomic.fna -V gendb:///scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_Ogor1.0/07_genomicsDB/all_samps/CM029852.1_genomicsDatabase -L CM029852.1 -O /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_Ogor1.0/08_genotypeGVCFs/run2/CM029852.1.vcf.gz
+Using GATK jar /home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jarUsing GATK jar /home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar
+Running:
+
+Running:
+    java -Dsamjdk.use_async_io_read_samtools=false -Dsamjdk.use_async_io_write_samtools=true -Dsamjdk.use_async_io_write_tribble=false -Dsamjdk.compression_level=2 -Xmx10g -Xms10g -jar /home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar GenotypeGVCFs -R /scratch/bell/sparks35/GL_Pink_Salmon/data/assemblies/Ogor_1.0/GCA_017355495.1_Ogor_1.0_genomic.fna -V gendb:///scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_Ogor1.0/07_genomicsDB/all_samps/CM029853.1_genomicsDatabase -L CM029853.1 -O /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_Ogor1.0/08_genotypeGVCFs/run2/CM029853.1.vcf.gz
+    java -Dsamjdk.use_async_io_read_samtools=false -Dsamjdk.use_async_io_write_samtools=true -Dsamjdk.use_async_io_write_tribble=false -Dsamjdk.compression_level=2 -Xmx10g -Xms10g -jar /home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar GenotypeGVCFs -R /scratch/bell/sparks35/GL_Pink_Salmon/data/assemblies/Ogor_1.0/GCA_017355495.1_Ogor_1.0_genomic.fna -V gendb:///scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_Ogor1.0/07_genomicsDB/all_samps/CM029849.1_genomicsDatabase -L CM029849.1 -O /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_Ogor1.0/08_genotypeGVCFs/run2/CM029849.1.vcf.gz
+Using GATK jar /home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar
+Running:
+    java -Dsamjdk.use_async_io_read_samtools=false -Dsamjdk.use_async_io_write_samtools=true -Dsamjdk.use_async_io_write_tribble=false -Dsamjdk.compression_level=2 -Xmx10g -Xms10g -jar /home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar GenotypeGVCFs -R /scratch/bell/sparks35/GL_Pink_Salmon/data/assemblies/Ogor_1.0/GCA_017355495.1_Ogor_1.0_genomic.fna -V gendb:///scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_Ogor1.0/07_genomicsDB/all_samps/CM029850.1_genomicsDatabase -L CM029850.1 -O /scratch/bell/sparks35/GL_Pink_Salmon/data/seqs/aligned_reads_Ogor1.0/08_genotypeGVCFs/run2/CM029850.1.vcf.gz
+13:30:49.784 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar!/com/intel/gkl/native/libgkl_compression.so
+13:30:49.798 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar!/com/intel/gkl/native/libgkl_compression.so
+13:30:49.802 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar!/com/intel/gkl/native/libgkl_compression.so
+13:30:49.820 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar!/com/intel/gkl/native/libgkl_compression.so
+13:30:49.842 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar!/com/intel/gkl/native/libgkl_compression.so
+13:30:49.867 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar!/com/intel/gkl/native/libgkl_compression.so
+13:30:49.880 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/home/sparks35/gatk-4.2.2.0/gatk-package-4.2.2.0-local.jar!/com/intel/gkl/native/libgkl_compression.so
+Jul 08, 2022 1:30:49 PM shaded.cloud_nio.com.google.auth.oauth2.ComputeEngineCredentials runningOnComputeEngine
+INFO: Failed to detect whether we are running on Google Compute Engine.
+13:30:49.901 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.901 INFO  GenotypeGVCFs - The Genome Analysis Toolkit (GATK) v4.2.2.0
+13:30:49.901 INFO  GenotypeGVCFs - For support and documentation go to https://software.broadinstitute.org/gatk/
+13:30:49.901 INFO  GenotypeGVCFs - Executing as sparks35@bell-a162.rcac.purdue.edu on Linux v3.10.0-1127.19.1.el7.x86_64 amd64
+13:30:49.901 INFO  GenotypeGVCFs - Java runtime: OpenJDK 64-Bit Server VM v1.8.0_262-b10
+13:30:49.902 INFO  GenotypeGVCFs - Start Date/Time: July 8, 2022 1:30:49 PM EDT
+13:30:49.902 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.902 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.902 INFO  GenotypeGVCFs - HTSJDK Version: 2.24.1
+13:30:49.902 INFO  GenotypeGVCFs - Picard Version: 2.25.4
+13:30:49.902 INFO  GenotypeGVCFs - Built for Spark Version: 2.4.5
+13:30:49.902 INFO  GenotypeGVCFs - HTSJDK Defaults.COMPRESSION_LEVEL : 2
+13:30:49.902 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_READ_FOR_SAMTOOLS : false
+13:30:49.902 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_SAMTOOLS : true
+13:30:49.902 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_TRIBBLE : false
+13:30:49.903 INFO  GenotypeGVCFs - Deflater: IntelDeflater
+Jul 08, 2022 1:30:49 PM shaded.cloud_nio.com.google.auth.oauth2.ComputeEngineCredentials runningOnComputeEngine
+INFO: Failed to detect whether we are running on Google Compute Engine.
+13:30:49.903 INFO  GenotypeGVCFs - Inflater: IntelInflater
+13:30:49.903 INFO  GenotypeGVCFs - GCS max retries/reopens: 20
+13:30:49.903 INFO  GenotypeGVCFs - Requester pays: disabled
+13:30:49.903 INFO  GenotypeGVCFs - Initializing engine
+13:30:49.904 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.904 INFO  GenotypeGVCFs - The Genome Analysis Toolkit (GATK) v4.2.2.0
+13:30:49.904 INFO  GenotypeGVCFs - For support and documentation go to https://software.broadinstitute.org/gatk/
+13:30:49.904 INFO  GenotypeGVCFs - Executing as sparks35@bell-a162.rcac.purdue.edu on Linux v3.10.0-1127.19.1.el7.x86_64 amd64
+13:30:49.904 INFO  GenotypeGVCFs - Java runtime: OpenJDK 64-Bit Server VM v1.8.0_262-b10
+13:30:49.905 INFO  GenotypeGVCFs - Start Date/Time: July 8, 2022 1:30:49 PM EDT
+13:30:49.905 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.905 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.905 INFO  GenotypeGVCFs - HTSJDK Version: 2.24.1
+13:30:49.905 INFO  GenotypeGVCFs - Picard Version: 2.25.4
+13:30:49.905 INFO  GenotypeGVCFs - Built for Spark Version: 2.4.5
+13:30:49.905 INFO  GenotypeGVCFs - HTSJDK Defaults.COMPRESSION_LEVEL : 2
+13:30:49.906 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_READ_FOR_SAMTOOLS : false
+13:30:49.906 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_SAMTOOLS : true
+13:30:49.906 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_TRIBBLE : false
+13:30:49.906 INFO  GenotypeGVCFs - Deflater: IntelDeflater
+13:30:49.906 INFO  GenotypeGVCFs - Inflater: IntelInflater
+13:30:49.906 INFO  GenotypeGVCFs - GCS max retries/reopens: 20
+13:30:49.906 INFO  GenotypeGVCFs - Requester pays: disabled
+13:30:49.906 INFO  GenotypeGVCFs - Initializing engine
+Jul 08, 2022 1:30:49 PM shaded.cloud_nio.com.google.auth.oauth2.ComputeEngineCredentials runningOnComputeEngine
+INFO: Failed to detect whether we are running on Google Compute Engine.
+13:30:49.909 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.909 INFO  GenotypeGVCFs - The Genome Analysis Toolkit (GATK) v4.2.2.0
+13:30:49.909 INFO  GenotypeGVCFs - For support and documentation go to https://software.broadinstitute.org/gatk/
+13:30:49.910 INFO  GenotypeGVCFs - Executing as sparks35@bell-a162.rcac.purdue.edu on Linux v3.10.0-1127.19.1.el7.x86_64 amd64
+13:30:49.910 INFO  GenotypeGVCFs - Java runtime: OpenJDK 64-Bit Server VM v1.8.0_262-b10
+13:30:49.910 INFO  GenotypeGVCFs - Start Date/Time: July 8, 2022 1:30:49 PM EDT
+13:30:49.910 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.910 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.910 INFO  GenotypeGVCFs - HTSJDK Version: 2.24.1
+13:30:49.910 INFO  GenotypeGVCFs - Picard Version: 2.25.4
+13:30:49.910 INFO  GenotypeGVCFs - Built for Spark Version: 2.4.5
+13:30:49.911 INFO  GenotypeGVCFs - HTSJDK Defaults.COMPRESSION_LEVEL : 2
+13:30:49.911 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_READ_FOR_SAMTOOLS : false
+13:30:49.911 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_SAMTOOLS : true
+13:30:49.911 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_TRIBBLE : false
+13:30:49.911 INFO  GenotypeGVCFs - Deflater: IntelDeflater
+13:30:49.911 INFO  GenotypeGVCFs - Inflater: IntelInflater
+13:30:49.911 INFO  GenotypeGVCFs - GCS max retries/reopens: 20
+13:30:49.911 INFO  GenotypeGVCFs - Requester pays: disabled
+13:30:49.911 INFO  GenotypeGVCFs - Initializing engine
+Jul 08, 2022 1:30:49 PM shaded.cloud_nio.com.google.auth.oauth2.ComputeEngineCredentials runningOnComputeEngine
+INFO: Failed to detect whether we are running on Google Compute Engine.
+13:30:49.933 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.933 INFO  GenotypeGVCFs - The Genome Analysis Toolkit (GATK) v4.2.2.0
+13:30:49.933 INFO  GenotypeGVCFs - For support and documentation go to https://software.broadinstitute.org/gatk/
+13:30:49.933 INFO  GenotypeGVCFs - Executing as sparks35@bell-a162.rcac.purdue.edu on Linux v3.10.0-1127.19.1.el7.x86_64 amd64
+13:30:49.933 INFO  GenotypeGVCFs - Java runtime: OpenJDK 64-Bit Server VM v1.8.0_262-b10
+13:30:49.933 INFO  GenotypeGVCFs - Start Date/Time: July 8, 2022 1:30:49 PM EDT
+13:30:49.933 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.933 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.934 INFO  GenotypeGVCFs - HTSJDK Version: 2.24.1
+13:30:49.934 INFO  GenotypeGVCFs - Picard Version: 2.25.4
+13:30:49.934 INFO  GenotypeGVCFs - Built for Spark Version: 2.4.5
+13:30:49.934 INFO  GenotypeGVCFs - HTSJDK Defaults.COMPRESSION_LEVEL : 2
+13:30:49.934 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_READ_FOR_SAMTOOLS : false
+13:30:49.934 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_SAMTOOLS : true
+13:30:49.934 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_TRIBBLE : false
+13:30:49.934 INFO  GenotypeGVCFs - Deflater: IntelDeflater
+13:30:49.934 INFO  GenotypeGVCFs - Inflater: IntelInflater
+13:30:49.935 INFO  GenotypeGVCFs - GCS max retries/reopens: 20
+13:30:49.935 INFO  GenotypeGVCFs - Requester pays: disabled
+13:30:49.935 INFO  GenotypeGVCFs - Initializing engine
+Jul 08, 2022 1:30:49 PM shaded.cloud_nio.com.google.auth.oauth2.ComputeEngineCredentials runningOnComputeEngine
+INFO: Failed to detect whether we are running on Google Compute Engine.
+13:30:49.949 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.949 INFO  GenotypeGVCFs - The Genome Analysis Toolkit (GATK) v4.2.2.0
+13:30:49.949 INFO  GenotypeGVCFs - For support and documentation go to https://software.broadinstitute.org/gatk/
+13:30:49.949 INFO  GenotypeGVCFs - Executing as sparks35@bell-a162.rcac.purdue.edu on Linux v3.10.0-1127.19.1.el7.x86_64 amd64
+13:30:49.949 INFO  GenotypeGVCFs - Java runtime: OpenJDK 64-Bit Server VM v1.8.0_262-b10
+13:30:49.950 INFO  GenotypeGVCFs - Start Date/Time: July 8, 2022 1:30:49 PM EDT
+13:30:49.950 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.950 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.950 INFO  GenotypeGVCFs - HTSJDK Version: 2.24.1
+13:30:49.950 INFO  GenotypeGVCFs - Picard Version: 2.25.4
+13:30:49.950 INFO  GenotypeGVCFs - Built for Spark Version: 2.4.5
+13:30:49.950 INFO  GenotypeGVCFs - HTSJDK Defaults.COMPRESSION_LEVEL : 2
+13:30:49.950 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_READ_FOR_SAMTOOLS : false
+13:30:49.950 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_SAMTOOLS : true
+13:30:49.950 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_TRIBBLE : false
+13:30:49.951 INFO  GenotypeGVCFs - Deflater: IntelDeflater
+13:30:49.951 INFO  GenotypeGVCFs - Inflater: IntelInflater
+13:30:49.951 INFO  GenotypeGVCFs - GCS max retries/reopens: 20
+13:30:49.951 INFO  GenotypeGVCFs - Requester pays: disabled
+13:30:49.951 INFO  GenotypeGVCFs - Initializing engine
+Jul 08, 2022 1:30:49 PM shaded.cloud_nio.com.google.auth.oauth2.ComputeEngineCredentials runningOnComputeEngine
+INFO: Failed to detect whether we are running on Google Compute Engine.
+13:30:49.978 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.978 INFO  GenotypeGVCFs - The Genome Analysis Toolkit (GATK) v4.2.2.0
+13:30:49.978 INFO  GenotypeGVCFs - For support and documentation go to https://software.broadinstitute.org/gatk/
+13:30:49.979 INFO  GenotypeGVCFs - Executing as sparks35@bell-a162.rcac.purdue.edu on Linux v3.10.0-1127.19.1.el7.x86_64 amd64
+13:30:49.979 INFO  GenotypeGVCFs - Java runtime: OpenJDK 64-Bit Server VM v1.8.0_262-b10
+13:30:49.979 INFO  GenotypeGVCFs - Start Date/Time: July 8, 2022 1:30:49 PM EDT
+13:30:49.979 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.979 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.979 INFO  GenotypeGVCFs - HTSJDK Version: 2.24.1
+13:30:49.979 INFO  GenotypeGVCFs - Picard Version: 2.25.4
+13:30:49.979 INFO  GenotypeGVCFs - Built for Spark Version: 2.4.5
+13:30:49.980 INFO  GenotypeGVCFs - HTSJDK Defaults.COMPRESSION_LEVEL : 2
+13:30:49.980 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_READ_FOR_SAMTOOLS : false
+13:30:49.980 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_SAMTOOLS : true
+13:30:49.980 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_TRIBBLE : false
+13:30:49.980 INFO  GenotypeGVCFs - Deflater: IntelDeflater
+13:30:49.980 INFO  GenotypeGVCFs - Inflater: IntelInflater
+13:30:49.980 INFO  GenotypeGVCFs - GCS max retries/reopens: 20
+13:30:49.980 INFO  GenotypeGVCFs - Requester pays: disabled
+13:30:49.980 INFO  GenotypeGVCFs - Initializing engine
+Jul 08, 2022 1:30:49 PM shaded.cloud_nio.com.google.auth.oauth2.ComputeEngineCredentials runningOnComputeEngine
+INFO: Failed to detect whether we are running on Google Compute Engine.
+13:30:49.996 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.996 INFO  GenotypeGVCFs - The Genome Analysis Toolkit (GATK) v4.2.2.0
+13:30:49.997 INFO  GenotypeGVCFs - For support and documentation go to https://software.broadinstitute.org/gatk/
+13:30:49.997 INFO  GenotypeGVCFs - Executing as sparks35@bell-a162.rcac.purdue.edu on Linux v3.10.0-1127.19.1.el7.x86_64 amd64
+13:30:49.997 INFO  GenotypeGVCFs - Java runtime: OpenJDK 64-Bit Server VM v1.8.0_262-b10
+13:30:49.997 INFO  GenotypeGVCFs - Start Date/Time: July 8, 2022 1:30:49 PM EDT
+13:30:49.997 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.997 INFO  GenotypeGVCFs - ------------------------------------------------------------
+13:30:49.997 INFO  GenotypeGVCFs - HTSJDK Version: 2.24.1
+13:30:49.998 INFO  GenotypeGVCFs - Picard Version: 2.25.4
+13:30:49.998 INFO  GenotypeGVCFs - Built for Spark Version: 2.4.5
+13:30:49.998 INFO  GenotypeGVCFs - HTSJDK Defaults.COMPRESSION_LEVEL : 2
+13:30:49.998 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_READ_FOR_SAMTOOLS : false
+13:30:49.998 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_SAMTOOLS : true
+13:30:49.998 INFO  GenotypeGVCFs - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_TRIBBLE : false
+13:30:49.998 INFO  GenotypeGVCFs - Deflater: IntelDeflater
+13:30:49.998 INFO  GenotypeGVCFs - Inflater: IntelInflater
+13:30:49.998 INFO  GenotypeGVCFs - GCS max retries/reopens: 20
+13:30:49.998 INFO  GenotypeGVCFs - Requester pays: disabled
+13:30:49.998 INFO  GenotypeGVCFs - Initializing engine
+13:30:51.315 INFO  GenomicsDBLibLoader - GenomicsDB native library version : 1.4.1-d59e886
+13:30:51.323 INFO  GenotypeGVCFs - Shutting down engine
+[July 8, 2022 1:30:51 PM EDT] org.broadinstitute.hellbender.tools.walkers.GenotypeGVCFs done. Elapsed time: 0.03 minutes.
+Runtime.totalMemory()=10290200576
+java.lang.IllegalStateException: There is no genome data stored in the database
+	at org.genomicsdb.reader.GenomicsDBFeatureReader.<init>(GenomicsDBFeatureReader.java:84)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.getGenomicsDBFeatureReader(FeatureDataSource.java:460)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.getFeatureReader(FeatureDataSource.java:365)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.<init>(FeatureDataSource.java:319)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.<init>(FeatureDataSource.java:291)
+	at org.broadinstitute.hellbender.engine.VariantLocusWalker.initializeDrivingVariants(VariantLocusWalker.java:76)
+	at org.broadinstitute.hellbender.engine.VariantWalkerBase.initializeFeatures(VariantWalkerBase.java:67)
+	at org.broadinstitute.hellbender.engine.GATKTool.onStartup(GATKTool.java:726)
+	at org.broadinstitute.hellbender.engine.VariantLocusWalker.onStartup(VariantLocusWalker.java:63)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.runTool(CommandLineProgram.java:138)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.instanceMainPostParseArgs(CommandLineProgram.java:192)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.instanceMain(CommandLineProgram.java:211)
+	at org.broadinstitute.hellbender.Main.runCommandLineProgram(Main.java:160)
+	at org.broadinstitute.hellbender.Main.mainEntry(Main.java:203)
+	at org.broadinstitute.hellbender.Main.main(Main.java:289)
+13:30:51.505 INFO  GenomicsDBLibLoader - GenomicsDB native library version : 1.4.1-d59e886
+13:30:51.514 INFO  GenotypeGVCFs - Shutting down engine
+[July 8, 2022 1:30:51 PM EDT] org.broadinstitute.hellbender.tools.walkers.GenotypeGVCFs done. Elapsed time: 0.03 minutes.
+Runtime.totalMemory()=10290200576
+java.lang.IllegalStateException: There is no genome data stored in the database
+	at org.genomicsdb.reader.GenomicsDBFeatureReader.<init>(GenomicsDBFeatureReader.java:84)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.getGenomicsDBFeatureReader(FeatureDataSource.java:460)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.getFeatureReader(FeatureDataSource.java:365)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.<init>(FeatureDataSource.java:319)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.<init>(FeatureDataSource.java:291)
+	at org.broadinstitute.hellbender.engine.VariantLocusWalker.initializeDrivingVariants(VariantLocusWalker.java:76)
+	at org.broadinstitute.hellbender.engine.VariantWalkerBase.initializeFeatures(VariantWalkerBase.java:67)
+	at org.broadinstitute.hellbender.engine.GATKTool.onStartup(GATKTool.java:726)
+	at org.broadinstitute.hellbender.engine.VariantLocusWalker.onStartup(VariantLocusWalker.java:63)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.runTool(CommandLineProgram.java:138)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.instanceMainPostParseArgs(CommandLineProgram.java:192)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.instanceMain(CommandLineProgram.java:211)
+	at org.broadinstitute.hellbender.Main.runCommandLineProgram(Main.java:160)
+	at org.broadinstitute.hellbender.Main.mainEntry(Main.java:203)
+	at org.broadinstitute.hellbender.Main.main(Main.java:289)
+13:30:51.536 INFO  GenomicsDBLibLoader - GenomicsDB native library version : 1.4.1-d59e886
+13:30:51.544 INFO  GenotypeGVCFs - Shutting down engine
+[July 8, 2022 1:30:51 PM EDT] org.broadinstitute.hellbender.tools.walkers.GenotypeGVCFs done. Elapsed time: 0.03 minutes.
+Runtime.totalMemory()=10290200576
+java.lang.IllegalStateException: There is no genome data stored in the database
+	at org.genomicsdb.reader.GenomicsDBFeatureReader.<init>(GenomicsDBFeatureReader.java:84)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.getGenomicsDBFeatureReader(FeatureDataSource.java:460)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.getFeatureReader(FeatureDataSource.java:365)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.<init>(FeatureDataSource.java:319)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.<init>(FeatureDataSource.java:291)
+	at org.broadinstitute.hellbender.engine.VariantLocusWalker.initializeDrivingVariants(VariantLocusWalker.java:76)
+	at org.broadinstitute.hellbender.engine.VariantWalkerBase.initializeFeatures(VariantWalkerBase.java:67)
+	at org.broadinstitute.hellbender.engine.GATKTool.onStartup(GATKTool.java:726)
+	at org.broadinstitute.hellbender.engine.VariantLocusWalker.onStartup(VariantLocusWalker.java:63)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.runTool(CommandLineProgram.java:138)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.instanceMainPostParseArgs(CommandLineProgram.java:192)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.instanceMain(CommandLineProgram.java:211)
+	at org.broadinstitute.hellbender.Main.runCommandLineProgram(Main.java:160)
+	at org.broadinstitute.hellbender.Main.mainEntry(Main.java:203)
+	at org.broadinstitute.hellbender.Main.main(Main.java:289)
+13:30:52.021 INFO  GenomicsDBLibLoader - GenomicsDB native library version : 1.4.1-d59e886
+13:30:52.031 INFO  GenomicsDBLibLoader - GenomicsDB native library version : 1.4.1-d59e886
+13:30:52.054 INFO  GenotypeGVCFs - Shutting down engine
+13:30:52.056 INFO  GenotypeGVCFs - Shutting down engine
+[July 8, 2022 1:30:52 PM EDT] org.broadinstitute.hellbender.tools.walkers.GenotypeGVCFs done. Elapsed time: 0.04 minutes.
+Runtime.totalMemory()=10290200576
+java.lang.IllegalStateException: There is no genome data stored in the database
+	at org.genomicsdb.reader.GenomicsDBFeatureReader.<init>(GenomicsDBFeatureReader.java:84)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.getGenomicsDBFeatureReader(FeatureDataSource.java:460)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.getFeatureReader(FeatureDataSource.java:365)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.<init>(FeatureDataSource.java:319)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.<init>(FeatureDataSource.java:291)
+	at org.broadinstitute.hellbender.engine.VariantLocusWalker.initializeDrivingVariants(VariantLocusWalker.java:76)
+	at org.broadinstitute.hellbender.engine.VariantWalkerBase.initializeFeatures(VariantWalkerBase.java:67)
+	at org.broadinstitute.hellbender.engine.GATKTool.onStartup(GATKTool.java:726)
+	at org.broadinstitute.hellbender.engine.VariantLocusWalker.onStartup(VariantLocusWalker.java:63)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.runTool(CommandLineProgram.java:138)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.instanceMainPostParseArgs(CommandLineProgram.java:192)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.instanceMain(CommandLineProgram.java:211)
+	at org.broadinstitute.hellbender.Main.runCommandLineProgram(Main.java:160)
+	at org.broadinstitute.hellbender.Main.mainEntry(Main.java:203)
+	at org.broadinstitute.hellbender.Main.main(Main.java:289)
+[July 8, 2022 1:30:52 PM EDT] org.broadinstitute.hellbender.tools.walkers.GenotypeGVCFs done. Elapsed time: 0.04 minutes.
+Runtime.totalMemory()=10290200576
+java.lang.IllegalStateException: There is no genome data stored in the database
+	at org.genomicsdb.reader.GenomicsDBFeatureReader.<init>(GenomicsDBFeatureReader.java:84)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.getGenomicsDBFeatureReader(FeatureDataSource.java:460)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.getFeatureReader(FeatureDataSource.java:365)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.<init>(FeatureDataSource.java:319)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.<init>(FeatureDataSource.java:291)
+	at org.broadinstitute.hellbender.engine.VariantLocusWalker.initializeDrivingVariants(VariantLocusWalker.java:76)
+	at org.broadinstitute.hellbender.engine.VariantWalkerBase.initializeFeatures(VariantWalkerBase.java:67)
+	at org.broadinstitute.hellbender.engine.GATKTool.onStartup(GATKTool.java:726)
+	at org.broadinstitute.hellbender.engine.VariantLocusWalker.onStartup(VariantLocusWalker.java:63)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.runTool(CommandLineProgram.java:138)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.instanceMainPostParseArgs(CommandLineProgram.java:192)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.instanceMain(CommandLineProgram.java:211)
+	at org.broadinstitute.hellbender.Main.runCommandLineProgram(Main.java:160)
+	at org.broadinstitute.hellbender.Main.mainEntry(Main.java:203)
+	at org.broadinstitute.hellbender.Main.main(Main.java:289)
+13:30:52.079 INFO  GenomicsDBLibLoader - GenomicsDB native library version : 1.4.1-d59e886
+13:30:52.087 INFO  GenotypeGVCFs - Shutting down engine
+[July 8, 2022 1:30:52 PM EDT] org.broadinstitute.hellbender.tools.walkers.GenotypeGVCFs done. Elapsed time: 0.04 minutes.
+Runtime.totalMemory()=10290200576
+java.lang.IllegalStateException: There is no genome data stored in the database
+	at org.genomicsdb.reader.GenomicsDBFeatureReader.<init>(GenomicsDBFeatureReader.java:84)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.getGenomicsDBFeatureReader(FeatureDataSource.java:460)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.getFeatureReader(FeatureDataSource.java:365)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.<init>(FeatureDataSource.java:319)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.<init>(FeatureDataSource.java:291)
+	at org.broadinstitute.hellbender.engine.VariantLocusWalker.initializeDrivingVariants(VariantLocusWalker.java:76)
+	at org.broadinstitute.hellbender.engine.VariantWalkerBase.initializeFeatures(VariantWalkerBase.java:67)
+	at org.broadinstitute.hellbender.engine.GATKTool.onStartup(GATKTool.java:726)
+	at org.broadinstitute.hellbender.engine.VariantLocusWalker.onStartup(VariantLocusWalker.java:63)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.runTool(CommandLineProgram.java:138)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.instanceMainPostParseArgs(CommandLineProgram.java:192)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.instanceMain(CommandLineProgram.java:211)
+	at org.broadinstitute.hellbender.Main.runCommandLineProgram(Main.java:160)
+	at org.broadinstitute.hellbender.Main.mainEntry(Main.java:203)
+	at org.broadinstitute.hellbender.Main.main(Main.java:289)
+13:30:52.119 INFO  GenomicsDBLibLoader - GenomicsDB native library version : 1.4.1-d59e886
+13:30:52.127 INFO  GenotypeGVCFs - Shutting down engine
+[July 8, 2022 1:30:52 PM EDT] org.broadinstitute.hellbender.tools.walkers.GenotypeGVCFs done. Elapsed time: 0.04 minutes.
+Runtime.totalMemory()=10290200576
+java.lang.IllegalStateException: There is no genome data stored in the database
+	at org.genomicsdb.reader.GenomicsDBFeatureReader.<init>(GenomicsDBFeatureReader.java:84)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.getGenomicsDBFeatureReader(FeatureDataSource.java:460)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.getFeatureReader(FeatureDataSource.java:365)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.<init>(FeatureDataSource.java:319)
+	at org.broadinstitute.hellbender.engine.FeatureDataSource.<init>(FeatureDataSource.java:291)
+	at org.broadinstitute.hellbender.engine.VariantLocusWalker.initializeDrivingVariants(VariantLocusWalker.java:76)
+	at org.broadinstitute.hellbender.engine.VariantWalkerBase.initializeFeatures(VariantWalkerBase.java:67)
+	at org.broadinstitute.hellbender.engine.GATKTool.onStartup(GATKTool.java:726)
+	at org.broadinstitute.hellbender.engine.VariantLocusWalker.onStartup(VariantLocusWalker.java:63)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.runTool(CommandLineProgram.java:138)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.instanceMainPostParseArgs(CommandLineProgram.java:192)
+	at org.broadinstitute.hellbender.cmdline.CommandLineProgram.instanceMain(CommandLineProgram.java:211)
+	at org.broadinstitute.hellbender.Main.runCommandLineProgram(Main.java:160)
+	at org.broadinstitute.hellbender.Main.mainEntry(Main.java:203)
+	at org.broadinstitute.hellbender.Main.main(Main.java:289)
