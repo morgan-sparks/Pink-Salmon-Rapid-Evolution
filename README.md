@@ -1,3 +1,3 @@
 # Pink-Salmon-Rapid-Evolution
 
-Will go live when paper is accepted
+To be archived in Zenodo when paper is accepted.
